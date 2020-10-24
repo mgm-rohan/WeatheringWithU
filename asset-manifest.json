@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WeatheringWithU/static/css/main.5237d1bd.chunk.css",
+    "main.js": "/WeatheringWithU/static/js/main.3dd608d2.chunk.js",
+    "main.js.map": "/WeatheringWithU/static/js/main.3dd608d2.chunk.js.map",
+    "runtime-main.js": "/WeatheringWithU/static/js/runtime-main.3f4e82b0.js",
+    "runtime-main.js.map": "/WeatheringWithU/static/js/runtime-main.3f4e82b0.js.map",
+    "static/css/2.b63ec0dc.chunk.css": "/WeatheringWithU/static/css/2.b63ec0dc.chunk.css",
+    "static/js/2.a690acfb.chunk.js": "/WeatheringWithU/static/js/2.a690acfb.chunk.js",
+    "static/js/2.a690acfb.chunk.js.map": "/WeatheringWithU/static/js/2.a690acfb.chunk.js.map",
+    "index.html": "/WeatheringWithU/index.html",
+    "static/css/2.b63ec0dc.chunk.css.map": "/WeatheringWithU/static/css/2.b63ec0dc.chunk.css.map",
+    "static/css/main.5237d1bd.chunk.css.map": "/WeatheringWithU/static/css/main.5237d1bd.chunk.css.map",
+    "static/js/2.a690acfb.chunk.js.LICENSE.txt": "/WeatheringWithU/static/js/2.a690acfb.chunk.js.LICENSE.txt",
+    "static/media/finalclip.f4da33b4.mp4": "/WeatheringWithU/static/media/finalclip.f4da33b4.mp4",
+    "static/media/weather-icons.css": "/WeatheringWithU/static/media/weathericons-regular-webfont.e4d2c00e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f4e82b0.js",
+    "static/css/2.b63ec0dc.chunk.css",
+    "static/js/2.a690acfb.chunk.js",
+    "static/css/main.5237d1bd.chunk.css",
+    "static/js/main.3dd608d2.chunk.js"
+  ]
+}
